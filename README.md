@@ -15,3 +15,4 @@ the following objects in the Sol system:
 - Kuiper Belt
 - Oort Cloud
 
+Written with Javascript, CSS and HTML, including Three.js library
