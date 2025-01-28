@@ -1,5 +1,5 @@
 # Solar-System-Simulation
-This is a Solar Ssytem Animation for the Stargazer's Club Website. It will display
+This is a Solar Sytem Animation for the Stargazer's Club Website. It will display
 the following objects in the Sol system:
 
 - Sun
