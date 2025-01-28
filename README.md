@@ -2,7 +2,7 @@
 This is a Solar Sytem Animation for the Stargazer's Club Website. It will display
 the following objects in the Sol system:
 
-- Sun
+- Sun (Sol)
 - Mercury
 - Venus
 - Earth (and moon)
